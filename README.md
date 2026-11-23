@@ -3,6 +3,9 @@
 
 以一个小尺寸置顶窗口显示对战精灵的信息，支持S4龙棋士透视
 
+RocoWallheck v0.9.20 
+1.更新铃兰夫人三围数据
+2.优化双人牵手下的显示
 [RocoWallhack.exe](https://github.com/BearingSteel/rocom-wallheck-win/releases)
 
 效果如图：
